@@ -1,6 +1,8 @@
 # dynamic_loader
 
-> A Vue.js project
+> 해당 코드는 component load를 동적으로 구현할 때 사용합니다.
+
+> 참조 [link](https://medium.com/scrumpy/dynamic-component-templates-with-vue-js-d9236ab183bb)
 
 ## Build Setup
 
@@ -17,5 +19,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
